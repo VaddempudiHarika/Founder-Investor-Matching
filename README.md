@@ -89,5 +89,5 @@ This project is open-source under the MIT License.
 - Your Name
 
 ## Contact
-For any inquiries, reach out at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries, reach out at [vaddempudiharika@gmail.com](mailto:vaddempudiharika@gmail.com).
 
